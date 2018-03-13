@@ -1,0 +1,6 @@
+RECEIPT
+ Kind of cloth: dress
+ Size: 36
+ Color: Pink
+ Total price: 61.9
+ Year of production: 2018

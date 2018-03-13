@@ -1,0 +1,5 @@
+Kind: trousers      Size: 38        Color: Jeans        Price: 99.90     Year: 2018
+Kind: dress         Size: 36        Color: Pink         Price: 59.90     Year: 2018
+Kind: blouse        Size: 34        Color: Black        Price: 29.90     Year: 2018
+Kind: socks         Size: 37        Color: colourful    Price: 19.90     Year: 2018
+Kind: trousers      Size: 40        Color: Grey         Price: 79.90     Year: 2018

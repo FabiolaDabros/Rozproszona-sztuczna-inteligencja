@@ -1,0 +1,5 @@
+Kind: T-shirt       Size: 38        Color: Blue         Price: 39.90     Year: 2018
+Kind: shorts        Size: 40        Color: Black        Price: 19.90     Year: 2018
+Kind: jacket        Size: 38        Color: Grey         Price: 99.90     Year: 2018
+Kind: shirt         Size: 36        Color: White        Price: 69.90     Year: 2018
+Kind: trousers      Size: 40        Color: Jeans        Price: 119.90    Year: 2018
